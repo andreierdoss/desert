@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{desert}
-  s.version = "0.5.0"
+  s.version = "0.5.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Pivotal Labs", "Brian Takita Mockingbird", "Parker I'm-not-a-hippie! Thompson", "Adam 'That's Crap' Milligan"]
@@ -47,9 +47,9 @@ Gem::Specification.new do |s|
     "lib/desert/plugin_templates/2.0.0/action_mailer.rb",
     "lib/desert/plugin_templates/2.0.2/action_view.rb",
     "lib/desert/plugin_templates/2.1.0/action_view.rb",
+    "lib/desert/plugin_templates/2.2.0/action_view.rb",
     "lib/desert/plugin_templates/action_controller.rb",
     "lib/desert/plugin_templates/action_view.rb",
-    "lib/desert/plugin_templates/edge/action_view.rb",
     "lib/desert/rails.rb",
     "lib/desert/rails/1.2.0/initializer.rb",
     "lib/desert/rails/2.0.0/plugin.rb",
